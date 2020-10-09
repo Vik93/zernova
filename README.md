@@ -4,10 +4,10 @@ Zernova is a test task.
 
 ## Installation
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install foobar.
+Use the VCS git to install zernova.
 
 ```bash
-git clone [project]
+git clone https://github.com/Vik93/zernova.git
 ```
 
 ## Contributing
